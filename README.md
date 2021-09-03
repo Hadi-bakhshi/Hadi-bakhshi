@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hadi Bakhshi
 - 👀 I’m interested in languages,teaching and designing.
-- 🌱 I’m currently learning HTML,CSS and JS.
+- 🌱 I’m currently learning HTML,CSS,JS and ReactJS.
 -    I consider myself as a hardworking and creative person.
 -    The key to success is...
 
