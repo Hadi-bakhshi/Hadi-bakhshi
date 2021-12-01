@@ -16,7 +16,7 @@
 
 </p>
 
-![Hadi Bakhshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+![Hadi Bakhshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi-bakhshi&show_icons=true&include_all_commits=true)
 
 ## :wrench: Technologies
 
