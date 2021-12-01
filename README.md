@@ -17,6 +17,7 @@
 </p>
 
 ![Hadi Bakhshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi-bakhshi&show_icons=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadi-bakhshi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
 
 ## :wrench: Technologies
 
