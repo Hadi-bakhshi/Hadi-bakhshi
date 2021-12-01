@@ -22,6 +22,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hadi-bakhshi-aa203221b)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hadi_bakhshi27/)
+ <a href="mailto:hadibakhshi277@gmail.com?subject=Hello%20Hadi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>&nbsp;
 [![Visits Badge](https://badges.pufler.dev/visits/Hadi-bakhshi/Hadi-bakhshi?style=for-the-badge)](https://github.com/Hadi-bakhshi)
 
 </p>
