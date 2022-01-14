@@ -33,7 +33,7 @@
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![ReactJS](https://img.icons8.com/color/30/react-native.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 <h2>📉 Github Status</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hadi Bakhshi's Github status" src="https://github-readme-stats.vercel.app/api?username=Hadi-bakhshi" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hadi Bakhshi's Github status" src="https://github-readme-stats.vercel.app/api?username=Hadi-bakhshi&show_icons=true&theme=radical" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadi-bakhshi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
 
 Credit: [Hadi-bakhshi](https://github.com/Hadi-bakhshi)
