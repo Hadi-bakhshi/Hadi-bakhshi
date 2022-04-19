@@ -10,8 +10,8 @@
 
 - 👋 Hi, I'm a front-end developer.
 - 👀 I’m interested in languages,teaching and designing.
-- 🌱 I’m currently learning ReactJS.
-- 👨‍💻 I consider myself as a hardworking and creative person. I would like to challenge myself and learn new things.
+- 🌱 I’m currently working as a react developer.
+- 👨‍💻 I consider myself a hardworking and creative person. I would like to challenge myself and learn new things.
 
 
 
