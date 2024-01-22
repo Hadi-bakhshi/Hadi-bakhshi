@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Hadi-bakhshi">Hadi Bakhshi's</a> Profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-stack+developer;.NET+Developer;I+have+expertise+in+React+Next+NodeJS+Nest;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-stack+Developer;A+.NET+Developer;I+have+expertise+in+React,+Next,+NodeJS and+Nest;" /></a>
 </p>
 
 
