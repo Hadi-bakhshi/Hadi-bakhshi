@@ -2,16 +2,13 @@
   <h1 align="center">Welcome to <a href="https://github.com/Hadi-bakhshi">Hadi Bakhshi's</a> Profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front-end+developer;I'm+a+React+Developer;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-stack+developer;.NET+Developer;I+have+expertise+in+React+Next+NodeJS+Nest;" /></a>
 </p>
 
 
 <h2>🙂 About Me </h2>
 
-- 👋 Hi, I'm a front-end developer.
-- 👀 I’m interested in languages,teaching and designing.
-- 🌱 I’m currently working as a react developer.
-- 👨‍💻 I consider myself a hardworking and creative person. I would like to challenge myself and learn new things.
+As a highly motivated Front-end Developer with over three years of experience, I am driven by a strong passion for programming, design, and innovation. My track record of delivering exceptional results in web development projects has propelled my growth as a developer. With leadership skills honed through mentoring junior developers, I specialize in crafting user-friendly and visually appealing designs using Next.js for React.js, with a growing interest in server-side programming with Node.js. Committed to excellence, I thrive on challenging projects and stay up-to-date with the latest technologies to excel in the dynamic tech industry. Eager to tackle new front-end development challenges and with a strong educational foundation, I am dedicated to both personal and professional growth.
 
 
 
