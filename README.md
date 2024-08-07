@@ -29,9 +29,8 @@ As a highly motivated Front-end Developer with over three years of experience, I
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![scss](https://img.icons8.com/color/30/000000/sass.png) ![bootsrap](https://img.icons8.com/color/30/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![ReactJS](https://img.icons8.com/color/30/react-native.png) ![redux](https://img.icons8.com/color/30/000000/redux.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![figma](https://img.icons8.com/color/30/000000/figma--v1.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
-<h2>📉 Github Status</h2>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hadi Bakhshi's Github status" src="https://github-readme-stats.vercel.app/api?username=Hadi-bakhshi&show_icons=true&theme=tokyonight" height="192px"/></a> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadi-bakhshi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+
 
 Credit: [Hadi-bakhshi](https://github.com/Hadi-bakhshi)
 2021
