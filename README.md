@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer specializing in back-end development with C#, with over four<br>years of experience designing and delivering more than 12 scalable and efficient<br>web applications. Adept at building reliable server-side systems and robust APIs,<br>particularly with ASP.NET Core. While proficient in front-end technologies such as<br>React.js and Next.js, my core expertise lies in creating performant, maintainable<br>backend architectures. Passionate about continuous improvement and innovation, I<br>excel in solving complex technical challenges in dynamic, fast-paced environments.
+Software Engineer specializing in back-end development with C#, with over five<br>years of experience designing and delivering more than 12 scalable and efficient<br>web applications. Adept at building reliable server-side systems and robust APIs,<br>particularly with ASP.NET Core. While proficient in front-end technologies such as<br>React.js and Next.js, my core expertise lies in creating performant, maintainable<br>backend architectures. Passionate about continuous improvement and innovation, I<br>excel in solving complex technical challenges in dynamic, fast-paced environments.
 
 
 ## 🌐 Socials:
